@@ -12,7 +12,7 @@ TU Dresden members can join with their ZIH login [here](https://matrix.tu-dresde
 
 # Meeting dates
 
-We meet on a Wednesday every 4 weeks at 13:00. These are the dates planned for 2024 (location in paranthesis). 
+We meet on a Wednesday every 4 weeks at 13:00. These are the dates planned for 2025 (location in paranthesis). 
 
 <div id="events-list">
   <!-- Events will be dynamically inserted here as an HTML list -->
@@ -66,7 +66,7 @@ We meet on a Wednesday every 4 weeks at 13:00. These are the dates planned for 2
 
 # Organisers
 
-Ulrike Friedrich (Dresden-concept Genome Center)  
+[Andreas Petzold](https://github.com/andpet0101) ([DRESDEN-concept Genome Center](https://github.com/dcgc-bfx)])  
 [Fabian Rost](https://orcid.org/0000-0001-6466-2589) (MPI-CBG)
 
 Contact us, if you have any questions.
