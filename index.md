@@ -12,7 +12,7 @@ TU Dresden members can join with their ZIH login [here](https://matrix.tu-dresde
 
 # Meeting dates
 
-We meet on a Wednesday every 4 weeks at 13:00. These are the dates planned for 2025 (location in paranthesis). 
+We meet on a Wednesday every 4 weeks at 13:00. These are the dates planned for 2026 (location in paranthesis). 
 
 <div id="events-list">
   <!-- Events will be dynamically inserted here as an HTML list -->
